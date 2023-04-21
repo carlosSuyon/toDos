@@ -1,0 +1,31 @@
+.mainInfo{
+    background-color: darkcyan;
+    font-size: large;
+    border-style: dotted;
+    margin: 1%;
+    padding: 1%;
+    display: flex;
+    flex-direction:column;
+}
+.boxTwo{
+    background-color:darkcyan;
+    font-size: medium;
+    display: flex;
+    margin: 1%;
+    padding: 1%;
+    flex-direction: row;
+    margin: 1%;
+    padding: 1%;
+}
+.boxTwo > ul{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+}
+.boxTwo > ul>li{
+    margin: 5%;
+}
+.boxTwo > img{
+    max-width: 50%;
+    max-height: 80%;
+}

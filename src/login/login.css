@@ -1,0 +1,20 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  
+}
+.auth-form-container{
+  border: solid salmon 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+label{
+  width: 80%;
+  margin: 1%;
+  padding: 1%;
+  font-size: x-large;
+}

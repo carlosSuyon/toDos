@@ -1,0 +1,22 @@
+.toDoForm{ 
+  font-size:large;
+  border-style: double;
+  border-color:aqua;
+  margin: 0.5% 1%;
+  padding: 1%;
+  display:flex;
+  flex-direction: row;
+  gap: 50px;
+}
+.toDoForm >label{
+  border-style: double;
+  border-color: crimson;
+  margin: 0% 2%;
+  /* font-size:xx-large */
+}
+.toDoForm>input{
+  /* font-size: x-large; */
+  border-style: double;
+  border-color: aquamarine;
+  margin-left: 0% 1%;
+}

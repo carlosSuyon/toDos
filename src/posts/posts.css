@@ -1,0 +1,23 @@
+.postsPage{
+  background-color:#0A2647;
+  color: aliceblue;
+  font-style: italic; 
+  font-size:large;
+  
+  margin: 0.5% 1%;
+  border: solid salmon 8px;
+  box-sizing: border-box;
+}
+
+
+.postFrame{
+  border: solid aqua 4px;
+}
+
+.posts{
+  list-style: none;
+  border: solid aqua 2px;
+  margin: 1%;
+  padding: 0.5%;
+  box-sizing: border-box;
+}

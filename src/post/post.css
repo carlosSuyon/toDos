@@ -1,0 +1,10 @@
+.postText{
+  /* border:  solid aquamarine 5px; */
+
+  margin: 0%;
+  padding: 1%;
+}
+.img{
+  max-width: 30px;
+  max-height: 30px ;
+}
